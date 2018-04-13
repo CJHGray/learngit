@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ultrasound Imaging</string>
+    <string name="text">超声(Ultrasound，简称US)医学是声学、医学、光学及电子学相结合的学科。凡研究高于可听声频率的声学技术在医学领域中的应用即超声医学。包括超声诊断学、超声治疗学和生物医学超声工程，所以超声医学具有医、理、工三结合的特点，涉及的内容广泛，在预防、诊断、治疗疾病中有很高的价值。</string>
+    <string name="title">My Description</string>
+    <string name="context_menu">Context menu</string>
+
+</resources>
