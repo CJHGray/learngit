@@ -1,0 +1,4 @@
+cd learngit
+git add how.txt
+git commit -m "miaoshu"
+git push -u origin master
