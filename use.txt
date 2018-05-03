@@ -2,3 +2,6 @@ cd learngit
 git add use.txt
 git commit -m "miaoshu"
 git push origin master
+
+first
+git pull origin master
